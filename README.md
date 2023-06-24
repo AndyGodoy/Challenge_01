@@ -23,3 +23,4 @@ Applying comments to changes made for future references
 ## Usage 
 
 
+![screencapture-andygodoy-github-io-Challenge-01-2023-06-23-23_07_59](https://github.com/AndyGodoy/Challenge_01/assets/137041531/0309f049-7068-4eec-a63b-d159dc6e010c)
